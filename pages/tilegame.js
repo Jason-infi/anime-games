@@ -108,7 +108,7 @@ const TileGame = () => {
         ></meta>
         <meta
           name='description'
-          content='lets see if you can remember your waifu >.<'
+          content='lets see if you can remember your waifu uwu'
         ></meta>
       </Head>
       <nav className='bottom-0 left-0 fixed m-auto flex items-center shadow-lg justify-evenly w-full p-2 bg-gray-50 h-16 font-mono text-pink-500 text-lg font-semibold lg:static lg:rounded-md lg:my-0 lg:max-w-3xl dark:bg-[#374151] dark:text-pink-600'>
